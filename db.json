@@ -1,0 +1,66 @@
+{
+  "todo": [
+    {
+      "id": 4,
+      "task": "BELT",
+      "status": "ACCESSORIES",
+      "price": "300",
+      "stock": "6"
+    },
+    {
+      "id": 6,
+      "task": "TSHIRT",
+      "status": "MEN",
+      "price": "1000",
+      "stock": "9"
+    },
+    {
+      "task": "SAREE WOMEN",
+      "status": "WOMEN",
+      "price": "2000",
+      "stock": "4",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "task": "TV",
+      "status": "ELECTRONIC",
+      "price": "10000",
+      "stock": "0"
+    }
+  ],
+  "admin": [
+    {
+      "email": "kavya@gamil.com",
+      "password": "4",
+      "review": "good web side",
+      "id": 1
+    },
+    {
+      "email": "admin@gamil.com",
+      "password": "3",
+      "review": "not good but okok ",
+      "id": 2
+    }
+  ],
+  "profile": [
+    {
+      "email": "kavya@gamil.com",
+      "password": "kavya",
+      "review": "12",
+      "id": 5
+    },
+    {
+      "email": "gandhi@gamil.com",
+      "password": "gandhi",
+      "review": "19",
+      "id": 6
+    },
+    {
+      "email": "admin@gamil.com",
+      "password": "admin",
+      "review": "1000",
+      "id": 7
+    }
+  ]
+}
